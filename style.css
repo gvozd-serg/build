@@ -2063,8 +2063,7 @@ $screen-large 1280px
 .free-ask {
   background-color: #F7F6F8; }
   .free-ask__img-list {
-    display: flex;
-    flex-wrap: wrap; }
+    display: flex; }
     @media (min-width: 768px) {
       .free-ask__img-list {
         width: 50%; } }
